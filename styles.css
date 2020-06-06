@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: url('images/background_wood.jpg') no-repeat top center ;
+  background: #1a0b04 url('images/background_wood.jpg') no-repeat bottom center ;
   background-size: cover;
 }
 
@@ -25,6 +25,7 @@ h2 {
   padding-bottom:5px;
   font-weight:100;
   text-transform: uppercase;
+  color:#4f854b;
 
 }
 
@@ -137,7 +138,7 @@ ul.skills {
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #ff7404;
 }
 
 footer {
